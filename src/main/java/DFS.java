@@ -3,7 +3,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 /**
- * @author miqdad
+ * @author Alireza Tayefeh
  */
 
 public class DFS {
